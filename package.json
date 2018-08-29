@@ -1,0 +1,19 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "个人博客 personal blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JS-Hao/blog.git"
+  },
+  "author": "JS-Hao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JS-Hao/blog/issues"
+  },
+  "homepage": "https://github.com/JS-Hao/blog#readme"
+}

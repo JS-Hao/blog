@@ -2,6 +2,8 @@
 
 ## 2019
 
+* [一个播放器引发的思考——谈谈React跨组件通信 ](https://github.com/JS-Hao/blog/issues/6)
+
 * [React Hooks初尝试——基于已有项目的代码实践](https://github.com/JS-Hao/blog/issues/5)(施工中...)
 
 ## 2018

@@ -1,5 +1,11 @@
 # JS-Hao的博客
 
+## 2020
+
+* [canvas 进阶 —— 如何实现 canvas 的事件系统](https://github.com/JS-Hao/blog/issues/8)
+
+* [开局一张图，带你解读 redux 源码](https://github.com/JS-Hao/blog/issues/9)
+
 ## 2019
 
 * [一段代码，带你理解js执行上下文的工作流程](https://github.com/JS-Hao/blog/issues/7)
